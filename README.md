@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alicja, a 20 year old student.
+- 👋 Hi, I’m Alicja, a 21 year old student.
 - 👀 I’m interested in artificial intelligence, IoT and programming small projects through Raspberry Pi, Java and Python.
 - ✨ I’m currently studying Computer Science at Ulster University.
 
