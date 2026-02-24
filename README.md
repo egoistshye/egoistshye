@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alicja, a 23 year old graduate
+- 👋 Hi, I’m Alicja, a 24 year old graduate
 - 👀 I’m interested in artificial intelligence, IoT and programming small projects through Raspberry Pi, Java and Python
 - ✨ I've graduated from Ulster University with a 2:1
 
